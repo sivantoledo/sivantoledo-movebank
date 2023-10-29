@@ -8,5 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/atlas-distribution/jars/opencsv-3.7.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/sivantoledo-util"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/sivantoledo-util-private"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
